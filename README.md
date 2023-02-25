@@ -5,7 +5,7 @@ This simple python script reads and writes all file names from a folder into a t
 ## Dependencies:
 * [Python (Any version)](https://www.python.org/)
 
-## Dependencies:
+## Usage:
 
 * Open `main.py` and edit the `folder_path` to the folder you want to get the file anmes out of.
 * Open the terminal inside the same folder where the `main.py` file is & run `python main.py`
